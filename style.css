@@ -46,6 +46,18 @@ margin: 0;
   
 
 }
+.navbuttons:hover #navabout{
+    color: rgb(0, 148, 153);
+  }
+  .navbuttons:hover #navplayers{
+    color: rgb(0, 148, 153);
+  }
+  .navbuttons:hover #navschedule{
+    color: rgb(0, 148, 153);
+  }
+  .navbuttons:hover #navgallery{
+    color: rgb(0, 148, 153);
+  }
 
 #navabout {
   
