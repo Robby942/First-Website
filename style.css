@@ -1,0 +1,176 @@
+body {
+    background: linear-gradient(rgb(0, 51, 53), rgb(15, 15, 15));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+margin: 0;
+
+}
+
+#stadium{
+
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    opacity: 25%;
+    background-position: center;
+    background-size: cover;
+    position:fixed;
+    top: 0%;
+
+}
+
+#logo {
+
+    height: 57px;
+    width: 57px;
+    position:absolute;
+    top: 0.4%;
+    bottom: 50%;
+    /* Align the top edge of the element at the vertical center */
+    left: 0.4%;
+    /* Align the left edge of the element at the horizontal center */
+    /*transform: translate(-50%, -50%);  */
+    opacity: 73%;
+
+
+
+}
+
+.navbuttons {
+
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+  
+
+}
+
+#navabout {
+  
+
+    color: whitesmoke;
+    font-size: 23px;
+    /* Use 'font-size' to set the text size, and you can adjust the value as needed */
+
+    position: absolute;
+    top: 3.7%;
+    /* Align the top edge of the element at the vertical center */
+    left: 92%;
+    /* Align the left edge of the element at the horizontal center */
+     transform: translate(-550%, -50%); 
+    font-family: 'Gabarito';
+    font-size: 16px;
+
+}
+
+#navplayers {
+ 
+
+    color: whitesmoke;
+    font-size: 23px;
+    /* Use 'font-size' to set the text size, and you can adjust the value as needed */
+
+    position: absolute;    top: 3.7%;
+    /* Align the top edge of the element at the vertical center */
+    left: 94.7%;
+    /* Align the left edge of the element at the horizontal center */
+   transform: translate(-400%, -50%); 
+    font-family: 'Gabarito';
+    font-size: 16px;
+
+}
+
+#navschedule {
+  
+
+    color: whitesmoke;
+    font-size: 23px;
+    /* Use 'font-size' to set the text size, and you can adjust the value as needed */
+
+    position: absolute;
+    top: 3.7%;
+    /* Align the top edge of the element at the vertical center */
+    left: 98%;
+    /* Align the left edge of the element at the horizontal center */
+    transform: translate(-235%, -50%); 
+    font-family: 'Gabarito';
+    font-size: 16px;
+
+}
+
+#navgallery {
+
+
+    color: whitesmoke;
+    font-size: 23px;
+    /* Use 'font-size' to set the text size, and you can adjust the value as needed */
+
+    position: absolute;
+    top: 3.7%;
+    /* Align the top edge of the element at the vertical center */
+    left: 100%;
+    /* Align the left edge of the element at the horizontal center */
+    transform: translate(-170%, -50%); 
+    font-family: 'Gabarito';
+    font-size: 16px;
+
+}
+
+
+#navbar{
+    border: none; /* Remove the default border */
+    border-top: 65px solid rgb(24, 24, 24); /* Set the thickness and color of the horizontal line */  
+     position:sticky;
+    top: 0;
+    border-bottom: 5px solid black;
+    opacity: 0%;
+    
+   
+    margin: 0;
+   
+  }
+
+header {
+
+    margin: 0;
+}
+
+#homeinfo {
+
+    font-family: 'Gabarito';
+    color: whitesmoke;
+    opacity: 90%;
+    position:fixed;
+    left: 50%;
+    top: 23%;
+    transform: translate(-50%, -50%);
+
+}
+
+#benandtriple {
+position:fixed;
+left: 25%;
+top: 60%;
+transform: translate(-25%, -50%);
+
+    width: 550px;
+    border-radius: 10px; 
+    overflow: hidden; 
+    opacity: 70%;
+    
+  }
+
+  #goal {
+    position:fixed;
+    left: 75%;
+    top: 60%;
+    transform: translate(-75%, -50%);
+    
+        width: 550px;
+        border-radius: 10px; 
+        overflow: hidden; 
+        opacity: 70%;
+        
+      }
